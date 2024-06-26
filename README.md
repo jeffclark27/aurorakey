@@ -1,3 +1,5 @@
+# AuroraKey
+
 Customized MoErgo Glove80 QWERTY Keymap with HRM and minimal layering.
 
 Changelog:

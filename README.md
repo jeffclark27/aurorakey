@@ -3,6 +3,8 @@
 Customized MoErgo Glove80 QWERTY Keymap with HRM and minimal layering.
 
 Changelog:
+v1c: change location of HRM keys.
+v1b: remove shiftdance and add lower layer on t1-delete. 
 v1: cloned from TailorKey v2.36c - Ultra Lite. QWERTY Layer - customized thumb cluster, arrows, tab, esc. SYMBOL Layer - customized right hand arrows, etc. 
 
 ---
